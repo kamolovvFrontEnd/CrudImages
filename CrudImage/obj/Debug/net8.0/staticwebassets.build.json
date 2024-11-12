@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "u978BLUOLYexI+Et4F0ObsSb/pS14IZVL/HPiRhnozE=",
+  "Source": "CrudImage",
+  "BasePath": "_content/CrudImage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CrudImage\\wwwroot",
+      "Source": "CrudImage",
+      "ContentRoot": "C:\\Users\\Bilol\\Desktop\\CrudImage\\CrudImage\\CrudImage\\wwwroot\\",
+      "BasePath": "_content/CrudImage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Bilol\\Desktop\\CrudImage\\CrudImage\\CrudImage\\wwwroot\\Images\\erling-haaland.jpg",
+      "SourceId": "CrudImage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bilol\\Desktop\\CrudImage\\CrudImage\\CrudImage\\wwwroot\\",
+      "BasePath": "_content/CrudImage",
+      "RelativePath": "Images/erling-haaland.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\erling-haaland.jpg"
+    }
+  ]
+}

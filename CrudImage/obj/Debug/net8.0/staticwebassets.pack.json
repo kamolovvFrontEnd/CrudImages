@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Bilol\\Desktop\\CrudImage\\CrudImage\\CrudImage\\wwwroot\\Images\\erling-haaland.jpg",
+      "PackagePath": "staticwebassets\\Images\\erling-haaland.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CrudImage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CrudImage.props",
+      "PackagePath": "build\\CrudImage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CrudImage.props",
+      "PackagePath": "buildMultiTargeting\\CrudImage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CrudImage.props",
+      "PackagePath": "buildTransitive\\CrudImage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
